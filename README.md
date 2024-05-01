@@ -2,6 +2,8 @@
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built using React.js and Tailwind CSS. It allows users to manage their daily tasks efficiently.
 
+## Preview Link: https://dailytask-phi.vercel.app/
+
 ## Features:- 
 
 - Create: Users can add new tasks to their list, specifying the task name and any additional details.
